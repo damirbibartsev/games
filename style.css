@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.top {
+  background-image: url(/img/Rectangle\ 1.jpg);
+  height: 1024px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 120px;
+}
+.h1 {
+  color: #ffffff;
+  font-family: "Montserrat";
+}
+.p1 {
+  color: #ffffff;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 32px;
+  width: 481px;
+}
+.button {
+  background-color: #9c0332;
+  border-radius: 20px;
+  border: 1px solid #9c0332;
+  width: 275px;
+  height: 46px;
+  font-size: 15px;
+  line-height: 18px;
+  color: #ffffff;
+  margin-top: 44px;
+  font-family: "Montserrat";
+  font-style: normal;
+}
