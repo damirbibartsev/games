@@ -3,6 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body{
+  max-width:620px;
+  margin: 0 auto;
+}
+
 .top {
   background-image: url(/img/Rectangle\ 1.jpg);
   height: 1024px;
