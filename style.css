@@ -62,7 +62,6 @@
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
-  height: 800px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -73,7 +72,6 @@
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
-  height: 800px;
   display: flex;
   align-items: center;
 }
@@ -137,6 +135,7 @@
     padding-left: 0px;
   }
   .bottom3 img{
+    margin: 0;
     padding-top: 64px;
     padding-left: 120px;
   }
