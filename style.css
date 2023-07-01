@@ -101,7 +101,7 @@
   margin-right: 135px;
 }
 
-@media (min-width: 375px) and (max-width:1124px){
+@media (max-width:1124px) {
   .bottom{
     display: flex;
     flex-direction: column;
