@@ -3,8 +3,8 @@ function showText(){
     let mas =['Яблоко', 'Груша', 'Дыня', 'Виноград', 'Персик', 'Апельсин', 'Мандарин']
     mas=mas.sort(() => Math.random() - 0.5)
     alert(mas)
-    let number1 = prompt('Чему равнялся первый элемент массива?')
-    let number2 = prompt('Чему равнялся последний элемент массива?')
+    let number1 = prompt('Введите первое слово')
+    let number2 = prompt('Введите последнее слово')
     if (number1 == mas[0]){
         c+=1;
     }
